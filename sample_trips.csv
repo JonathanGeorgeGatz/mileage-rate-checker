@@ -1,0 +1,88 @@
+Date driven,Employee,From,To,Odometer start,Odometer end,Miles,Purpose,Date submitted,Rate paid,Amount paid
+6/2/2026,Alma Reyes,Client A7,Client F2,"41,216.4","41,255.1",38.7,Client visits,6/12/2026,$0.725,28.06
+6/4/2026,Alma Reyes,Home,Client B7,"41,279.6","41,378.9",99.3,Client visits,6/12/2026,$0.725,71.99
+12/29/2025,Bernard Osei,Office,Client C4,,,54.6,Client visits,6/12/2026,$0.725,39.59
+6/1/2026,Carla Mendes,Client E4,Client H2,"31,072.2","31,120.5",48.3,Client visits and a pharmacy pickup,6/12/2026,$0.725,35.02
+6/3/2026,Desmond Hart,Client G2,Client G7,"52,004.0","52,063.2",59.2,Client visits and a pharmacy pickup,6/12/2026,$0.725,42.92
+6/1/2026,Elena Vasquez,Client G4,Client F4,"18,413.1","18,522.1",109.0,Client visits,6/12/2026,$0.725,79.03
+6/3/2026,Elena Vasquez,Client E7,Client H2,"18,543.2","18,605.1",61.9,Client visits,6/12/2026,$0.725,44.88
+6/5/2026,Carla Mendes,Client E4,Client G4,"31,130.5","31,186.6",56.1,Client visits and a pharmacy pickup,6/19/2026,$0.725,40.67
+6/5/2026,Desmond Hart,Client A7,Client F4,"52,080.3","52,182.1",101.8,Client visits,6/19/2026,$0.725,73.81
+6/8/2026,Desmond Hart,Home,Client A7,"52,195.4","52,269.2",73.8,Client visits and a supply run,6/19/2026,$0.725,53.51
+6/9/2026,Desmond Hart,Client E7,Client D4,"52,297.9","52,409.6",111.7,Client visits and a pharmacy pickup,6/19/2026,$0.725,80.98
+6/5/2026,Elena Vasquez,Client C2,Client A2,"18,613.7","18,718.2",104.5,Client visits,6/19/2026,$0.725,75.76
+6/18/2026,Alma Reyes,Client G2,Client F7,"41,403.4","41,448.3",44.9,Client visits,6/26/2026,$0.725,32.55
+6/16/2026,Bernard Osei,Client C4,Client E4,,,105.7,Client visits and a supply run,6/26/2026,$0.725,76.63
+6/18/2026,Bernard Osei,Client G2,Client D2,,,103.9,Client visits and a pharmacy pickup,6/26/2026,$0.725,75.33
+6/12/2026,Carla Mendes,Client B7,Client F4,"31,196.0","31,273.9",77.9,Client visits,6/26/2026,$0.725,56.48
+6/15/2026,Elena Vasquez,Client A7,Client F7,"18,747.3","18,817.6",70.3,Client visits,6/26/2026,$0.725,50.97
+6/16/2026,Elena Vasquez,Client G2,Client G7,"18,829.3","18,880.8",51.5,Client visits,6/26/2026,$0.725,37.34
+6/23/2026,Alma Reyes,Home,Client G2,"41,466.6","41,573.4",106.8,Client visits,7/3/2026,$0.725,77.43
+6/25/2026,Alma Reyes,Client H4,Client G2,"41,591.6","41,639.3",47.7,Client visits and a pharmacy pickup,7/3/2026,$0.725,34.58
+6/19/2026,Bernard Osei,Client G7,Client D7,,,69.7,Client visits and a pharmacy pickup,7/3/2026,$0.725,50.53
+6/25/2026,Bernard Osei,Client E7,Client B7,,,68.3,Client visits,7/3/2026,$0.725,49.52
+6/22/2026,Carla Mendes,Client B4,Client F4,"31,283.3","31,330.9",47.6,Client visits,7/3/2026,$0.725,34.51
+6/25/2026,Carla Mendes,Client D4,Client B7,"31,352.5","31,406.7",54.2,Client visits,7/3/2026,$0.725,39.30
+6/22/2026,Desmond Hart,Client G2,Client E4,"52,423.3","52,467.7",44.4,Client visits and a pharmacy pickup,7/3/2026,$0.725,32.19
+6/24/2026,Desmond Hart,Client H2,Client B7,"52,471.9","52,512.3",40.4,Client visits,7/3/2026,$0.725,29.29
+7/1/2026,Alma Reyes,Client G2,Client B2,"41,668.6","41,769.4",100.8,Client visits and a supply run,7/10/2026,$0.725,73.08
+7/1/2026,Bernard Osei,Client E7,Client A2,,,108.5,Client visits,7/10/2026,$0.725,78.66
+6/26/2026,Carla Mendes,Office,Client H2,"31,419.1","31,515.0",95.9,"Team meeting, then client visits",7/10/2026,$0.725,69.53
+6/29/2026,Carla Mendes,Office,Client D7,"31,534.5","31,625.4",90.9,"Team meeting, then client visits",7/10/2026,$0.725,65.90
+6/30/2026,Carla Mendes,Client B4,Client E2,"31,641.0","31,694.3",53.3,Client visits and a supply run,7/10/2026,$0.725,38.64
+7/1/2026,Carla Mendes,Office,Client G4,"31,705.3","31,804.5",99.2,"Team meeting, then client visits",7/10/2026,$0.725,71.92
+7/1/2026,Desmond Hart,Client A2,Client D7,"52,525.2","52,627.4",102.2,Client visits,7/10/2026,$0.725,74.10
+6/30/2026,Elena Vasquez,Client F7,Client C4,"18,890.5","18,935.7",45.2,Client visits,7/10/2026,$0.725,32.77
+7/1/2026,Elena Vasquez,Client C7,Client A4,"18,942.1","19,002.9",60.8,Client visits and a supply run,7/10/2026,$0.725,44.08
+7/6/2026,Alma Reyes,Client C4,Client D4,"41,786.3","41,856.2",69.9,,7/17/2026,$0.725,50.68
+7/7/2026,Alma Reyes,Client E7,Client B4,"41,876.3","41,939.2",62.9,Client visits,7/17/2026,$0.725,45.60
+7/3/2026,Bernard Osei,Client B4,Client D7,,,95.5,Client visits,7/17/2026,$0.725,69.24
+7/8/2026,Bernard Osei,Office,Client F7,,,63.9,Client visits and a supply run,7/17/2026,$0.725,46.33
+7/9/2026,Bernard Osei,Office,Client G7,,,92.4,"Team meeting, then client visits",7/17/2026,$0.725,66.99
+7/6/2026,Carla Mendes,Client A7,Client B4,"31,819.8","31,919.0",109.2,Client visits and a pharmacy pickup,7/17/2026,$0.725,79.17
+7/9/2026,Carla Mendes,Office,Client F4,"31,932.7","31,985.3",52.6,"Team meeting, then client visits",7/17/2026,$0.725,38.14
+7/8/2026,Desmond Hart,Client C4,Client G7,"52,649.5","52,733.4",83.9,Client visits,7/17/2026,$0.725,60.83
+7/8/2026,Desmond Hart,Client G7,Client D7,"52,692.2","52,757.7",65.5,Client visits,7/17/2026,$0.725,47.49
+7/3/2026,Elena Vasquez,Client E7,Client D4,"19,028.3","19,119.6",91.3,Client visits,7/17/2026,$0.725,66.19
+7/7/2026,Elena Vasquez,Client A4,Client C7,"19,132.0","19,196.1",64.1,Client visits and a supply run,7/17/2026,$0.725,46.47
+7/14/2026,Bernard Osei,Office,Client E7,,,105.3,"Team meeting, then client visits",7/24/2026,$0.725,76.34
+7/16/2026,Bernard Osei,Home,Client G4,,,88.8,Client visits,7/24/2026,$0.725,64.38
+7/13/2026,Desmond Hart,Client G7,Client E2,"52,809.6","52,867.1",57.5,Client visits and a supply run,7/24/2026,$0.725,41.69
+7/14/2026,Desmond Hart,Client F2,Client A2,"52,876.7","52,980.1",103.4,Client visits and a supply run,7/24/2026,$0.725,74.97
+7/13/2026,Elena Vasquez,Client H7,Client B2,"19,209.4","19,281.3",71.9,Client visits,7/24/2026,$0.725,52.13
+7/14/2026,Elena Vasquez,Home,Client D7,"19,294.7","19,383.4",88.7,Client visits,7/24/2026,$0.725,64.31
+7/20/2026,Alma Reyes,Client A4,Client E7,"41,958.6","42,048.3",89.7,Client visits,7/31/2026,$0.725,65.03
+7/21/2026,Desmond Hart,Client F7,Client D2,"52,989.8","53,056.1",66.3,Client visits and a pharmacy pickup,7/31/2026,$0.725,48.07
+7/27/2026,Alma Reyes,Client B2,Client H2,"42,076.4","42,133.4",57.0,Client visits and a supply run,8/7/2026,$0.760,43.32
+7/29/2026,Alma Reyes,Client G2,Client F4,"42,154.4","42,238.6",84.2,Client visits,8/7/2026,$0.760,63.99
+7/27/2026,Bernard Osei,Client F7,Client C7,,,82.8,Client visits,8/7/2026,$0.760,62.93
+7/30/2026,Bernard Osei,Client E7,Client B4,,,77.9,Client visits,8/7/2026,$0.760,59.20
+7/27/2026,Carla Mendes,Client B2,Client E7,"32,004.0","32,062.6",58.6,Client visits,8/7/2026,$0.760,44.54
+7/27/2026,Elena Vasquez,Client H7,Client C4,"19,395.0","19,456.0",61.0,Client visits,8/7/2026,$0.760,46.36
+7/29/2026,Elena Vasquez,Client G7,Client D7,"19,470.1","19,565.0",94.9,Client visits,8/7/2026,$0.760,72.12
+6/5/2026,Frankie Lund,Client G7,Client B2,"67,305.9","67,391.2",85.3,Client visits,8/7/2026,$0.760,64.83
+6/18/2026,Frankie Lund,Office,Client F2,"67,420.1","67,506.6",86.5,"Team meeting, then client visits",8/7/2026,$0.760,65.74
+6/22/2026,Frankie Lund,Client F7,Client G4,"67,526.3","67,623.0",96.7,Client visits,8/7/2026,$0.760,73.49
+6/24/2026,Frankie Lund,Client A4,Client H2,"67,636.1","67,717.0",80.9,Client visits and a pharmacy pickup,8/7/2026,$0.760,61.48
+6/25/2026,Frankie Lund,Client A7,Client B2,"67,736.1","67,774.4",38.3,Client visits,8/7/2026,$0.760,29.11
+6/26/2026,Frankie Lund,Client D7,Client C4,"67,789.5","67,882.0",92.5,Client visits and a pharmacy pickup,8/7/2026,$0.760,70.30
+6/29/2026,Frankie Lund,Office,Client F4,"67,892.1","67,933.8",41.7,Client visits,8/7/2026,$0.760,31.69
+6/30/2026,Frankie Lund,Client E4,Client F2,"67,938.7","67,987.6",48.9,Client visits,8/7/2026,$0.760,37.16
+7/7/2026,Frankie Lund,Client F7,Client G7,"68,010.6","68,074.7",64.1,Client visits,8/7/2026,$0.760,48.72
+7/14/2026,Frankie Lund,Office,Client E4,"68,086.8","68,133.0",46.2,"Team meeting, then client visits",8/7/2026,$0.760,35.11
+7/15/2026,Frankie Lund,Client D7,Client E4,"68,151.7","68,220.4",68.7,Client visits,8/7/2026,$0.760,52.21
+7/21/2026,Frankie Lund,Client E2,Client D7,"68,228.4","68,280.1",51.7,Client visits,8/7/2026,$0.760,39.29
+7/22/2026,Frankie Lund,Client C4,Client C7,"68,286.5","68,337.4",50.9,Client visits and a pharmacy pickup,8/7/2026,$0.760,38.68
+7/24/2026,Frankie Lund,Client G2,Client E4,"68,360.7","68,431.1",70.4,Client visits,8/7/2026,$0.760,53.50
+8/6/2026,Alma Reyes,Client E7,Client A7,"42,247.8","42,287.8",40.0,Client visits,8/14/2026,$0.760,30.40
+7/31/2026,Bernard Osei,Client E7,Client D4,,,40.6,Client visits,8/14/2026,$0.760,30.86
+8/3/2026,Carla Mendes,Office,Client E4,"32,066.8","32,134.4",67.6,"Team meeting, then client visits",8/14/2026,$0.760,51.38
+8/6/2026,Desmond Hart,Client D4,Client C7,"53,065.9","53,111.0",45.1,Client visits,8/14/2026,$0.760,34.28
+8/11/2026,Alma Reyes,Client E4,Client C7,"42,304.7","42,391.7",87.0,Client visits and a pharmacy pickup,8/21/2026,$0.760,66.12
+8/12/2026,Alma Reyes,Client F4,Client H7,"42,404.4","42,511.5",107.1,Client visits,8/21/2026,$0.760,81.40
+8/13/2026,Bernard Osei,Client B4,Client G4,,,86.7,Client visits and a pharmacy pickup,8/21/2026,$0.760,65.89
+8/10/2026,Desmond Hart,Client G4,Client E4,"53,121.5","53,228.1",106.6,Client visits and a pharmacy pickup,8/21/2026,$0.760,81.02
+8/11/2026,Desmond Hart,Client E7,Client D7,"53,253.1","53,327.6",74.5,Client visits and a supply run,8/21/2026,$0.760,56.62
+8/12/2026,Elena Vasquez,Client G4,Client H7,"19,595.0","19,703.1",108.1,Client visits,8/21/2026,$0.760,82.16
+8/12/2026,Elena Vasquez,Client G4,Client H7,"19,595.0","19,703.1",108.1,Client visits,8/21/2026,$0.760,82.16
+8/14/2026,Carla Mendes,Client D4,Client H7,"32,162.9","32,213.2",50.3,Client visits,8/28/2026,$0.760,38.23

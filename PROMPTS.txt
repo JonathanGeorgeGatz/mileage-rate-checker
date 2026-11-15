@@ -1,0 +1,39 @@
+THE MILEAGE RATE CHECKER — the three prompts, word for word, in the order they were sent
+(Build It With AI, Episode 30. The answers to prompts 1 and 2 are in the bundle as
+mileage_v1_FIRST_BUILD_NOT_THE_TOOL.gs and mileage_v2_SECOND_BUILD_NOT_THE_TOOL.gs.)
+
+---------------------------------------------------------------- PROMPT 1
+We run a small home care agency and pay our aides back for driving from a Google Sheet. One tab,
+Trips, has Date driven, Employee, From, To, Odometer start, Odometer end, Miles, Purpose, Date
+submitted, Rate paid and Amount paid for every trip. We pay the IRS rate, 72.5 cents a mile.
+Write me an Apps Script with a menu that works out what each person should have been paid and
+tells me who we overpaid or underpaid.
+
+---------------------------------------------------------------- PROMPT 2
+That rate is out of date. The IRS raised it to 76 cents a mile on July 13, 2026, for miles driven
+on or after July 1, 2026. Before July 1 it stays 72.5 cents. Rebuild it to follow this exactly:
+- Put the rates in a Settings tab: From, To, Rate per mile. The rate for a trip is the one for the
+  DATE IT WAS DRIVEN. Never the date it was submitted, never the date it was paid.
+- If a trip has both odometer readings, the miles are end minus start. If the typed Miles don't
+  match the odometer, refuse the row and say both numbers. Never guess a distance.
+- Refuse any row with no employee, no business purpose or a date you cannot read, with its row
+  number and the reason. A date no rate covers is set aside, not priced.
+- The same person, date, route and odometer twice is one trip. Keep the first, refuse the copy.
+- Work in cents. Round each trip to the cent, half a cent up.
+Then I'll check every number against a separate checker written from these rules.
+
+---------------------------------------------------------------- PROMPT 3
+The checker disagreed with you on 38 trips. Fix the three causes: "on or after July 1" means a
+trip driven ON July 1 gets 76 cents; the odometer wins over typed miles, and a mismatch is refused,
+not used; and half a cent rounds up, it is not dropped. Then make the sheet check itself before
+I trust it:
+- Find every column by its header, in any order. If a tab's header row is missing or wrong,
+  price nothing from it and say which tab.
+- If one person's odometer readings overlap, the same miles are being claimed twice: refuse the
+  later trip and name the row it overlaps.
+- Count in public: rows in = checked + set aside + refused, every time.
+- Add up the money twice, by trip and by person, and compare to the cent.
+- If any of that fails, or more than 10% of the rows are refused, write
+  DO NOT TRUST THESE MILEAGE TOTALS across the top of the report, in red, and leave it there.
+- List every trip paid the wrong amount, and say why: the rate it was paid at and the rate for
+  the day it was driven.
